@@ -1,0 +1,457 @@
+{
+    "AGGRONITE": {
+        "ID": 560,
+        "key": "AGGRONITE",
+        "name": "Aggronite"
+    },
+    "WATER_STONE": {
+        "ID": 97,
+        "key": "WATER_STONE",
+        "name": "Water Stone"
+    },
+    "LEAF_STONE": {
+        "ID": 98,
+        "key": "LEAF_STONE",
+        "name": "Leaf Stone"
+    },
+    "DRAGON_SCALE": {
+        "ID": 201,
+        "key": "DRAGON_SCALE",
+        "name": "Dragon Scale"
+    },
+    "GARDEVOIRITE": {
+        "ID": 557,
+        "key": "GARDEVOIRITE",
+        "name": "Gardevoirite"
+    },
+    "MACHAMPITE": {
+        "ID": 728,
+        "key": "MACHAMPITE",
+        "name": "Machampite"
+    },
+    "BLAZIKENITE": {
+        "ID": 555,
+        "key": "BLAZIKENITE",
+        "name": "Blazikenite"
+    },
+    "GARBODORITE": {
+        "ID": 731,
+        "key": "GARBODORITE",
+        "name": "Garbodorite"
+    },
+    "SCEPTILITE": {
+        "ID": 554,
+        "key": "SCEPTILITE",
+        "name": "Sceptilite"
+    },
+    "HERACRONITE": {
+        "ID": 551,
+        "key": "HERACRONITE",
+        "name": "Heracronite"
+    },
+    "ICE_STONE": {
+        "ID": 102,
+        "key": "ICE_STONE",
+        "name": "Ice Stone"
+    },
+    "MEDICHAMITE": {
+        "ID": 561,
+        "key": "MEDICHAMITE",
+        "name": "Medichamite"
+    },
+    "SANDACONDITE": {
+        "ID": 744,
+        "key": "SANDACONDITE",
+        "name": "Sandacondite"
+    },
+    "CAMERUPTITE": {
+        "ID": 564,
+        "key": "CAMERUPTITE",
+        "name": "Cameruptite"
+    },
+    "GALLADITE": {
+        "ID": 577,
+        "key": "GALLADITE",
+        "name": "Galladite"
+    },
+    "HOUNDOOMINITE": {
+        "ID": 552,
+        "key": "HOUNDOOMINITE",
+        "name": "Houndoominite"
+    },
+    "ETERNAMAX_ORB": {
+        "ID": 746,
+        "key": "ETERNAMAX_ORB",
+        "name": "Eternamax Orb"
+    },
+    "BLUE_ORB": {
+        "ID": 277,
+        "key": "BLUE_ORB",
+        "name": "Blue Orb"
+    },
+    "ALAKAZITE": {
+        "ID": 539,
+        "key": "ALAKAZITE",
+        "name": "Alakazite"
+    },
+    "MAGMARIZER": {
+        "ID": 90,
+        "key": "MAGMARIZER",
+        "name": "Magmarizer"
+    },
+    "SCIZORITE": {
+        "ID": 550,
+        "key": "SCIZORITE",
+        "name": "Scizorite"
+    },
+    "METAL_COAT": {
+        "ID": 199,
+        "key": "METAL_COAT",
+        "name": "Metal Coat"
+    },
+    "REAPER_CLOTH": {
+        "ID": 92,
+        "key": "REAPER_CLOTH",
+        "name": "Reaper Cloth"
+    },
+    "KINGLERITE": {
+        "ID": 733,
+        "key": "KINGLERITE",
+        "name": "Kinglerite"
+    },
+    "LUCARIONITE": {
+        "ID": 575,
+        "key": "LUCARIONITE",
+        "name": "Lucarionite"
+    },
+    "GARCHOMPITE": {
+        "ID": 574,
+        "key": "GARCHOMPITE",
+        "name": "Garchompite"
+    },
+    "MOON_STONE": {
+        "ID": 94,
+        "key": "MOON_STONE",
+        "name": "Moon Stone"
+    },
+    "AERODACTYLITE": {
+        "ID": 545,
+        "key": "AERODACTYLITE",
+        "name": "Aerodactylite"
+    },
+    "DURALUDONITE": {
+        "ID": 736,
+        "key": "DURALUDONITE",
+        "name": "Duraludonite"
+    },
+    "ABSOLITE": {
+        "ID": 567,
+        "key": "ABSOLITE",
+        "name": "Absolite"
+    },
+    "BEEDRILLITE": {
+        "ID": 537,
+        "key": "BEEDRILLITE",
+        "name": "Beedrillite"
+    },
+    "GYARADOSITE": {
+        "ID": 544,
+        "key": "GYARADOSITE",
+        "name": "Gyaradosite"
+    },
+    "STEELIXITE": {
+        "ID": 549,
+        "key": "STEELIXITE",
+        "name": "Steelixite"
+    },
+    "PRISM_SCALE": {
+        "ID": 176,
+        "key": "PRISM_SCALE",
+        "name": "Prism Scale"
+    },
+    "SLOWBRONITE": {
+        "ID": 540,
+        "key": "SLOWBRONITE",
+        "name": "Slowbronite"
+    },
+    "GLALITITE": {
+        "ID": 568,
+        "key": "GLALITITE",
+        "name": "Glalitite"
+    },
+    "AUDINITE": {
+        "ID": 578,
+        "key": "AUDINITE",
+        "name": "Audinite"
+    },
+    "COALOSSITE": {
+        "ID": 735,
+        "key": "COALOSSITE",
+        "name": "Coalossite"
+    },
+    "DIANCITE": {
+        "ID": 579,
+        "key": "DIANCITE",
+        "name": "Diancite"
+    },
+    "MANECTITE": {
+        "ID": 562,
+        "key": "MANECTITE",
+        "name": "Manectite"
+    },
+    "BANETTITE": {
+        "ID": 566,
+        "key": "BANETTITE",
+        "name": "Banettite"
+    },
+    "DUSK_STONE": {
+        "ID": 100,
+        "key": "DUSK_STONE",
+        "name": "Dusk Stone"
+    },
+    "TOXTRICITITE": {
+        "ID": 734,
+        "key": "TOXTRICITITE",
+        "name": "Toxtricitite"
+    },
+    "SALAMENCITE": {
+        "ID": 569,
+        "key": "SALAMENCITE",
+        "name": "Salamencite"
+    },
+    "CHARIZARDITE_X": {
+        "ID": 534,
+        "key": "CHARIZARDITE_X",
+        "name": "Charizardite X"
+    },
+    "CHARIZARDITE_Y": {
+        "ID": 535,
+        "key": "CHARIZARDITE_Y",
+        "name": "Charizardite Y"
+    },
+    "SABLENITE": {
+        "ID": 558,
+        "key": "SABLENITE",
+        "name": "Sablenite"
+    },
+    "LAPRASITE": {
+        "ID": 729,
+        "key": "LAPRASITE",
+        "name": "Laprasite"
+    },
+    "THUNDER_STONE": {
+        "ID": 96,
+        "key": "THUNDER_STONE",
+        "name": "Thunder Stone"
+    },
+    "ABOMASITE": {
+        "ID": 576,
+        "key": "ABOMASITE",
+        "name": "Abomasite"
+    },
+    "PROTECTOR": {
+        "ID": 88,
+        "key": "PROTECTOR",
+        "name": "Protector"
+    },
+    "BUTTERFRITE": {
+        "ID": 730,
+        "key": "BUTTERFRITE",
+        "name": "Butterfrite"
+    },
+    "DEEP_SEA_TOOTH": {
+        "ID": 192,
+        "key": "DEEP_SEA_TOOTH",
+        "name": "Deep Sea Tooth"
+    },
+    "DUBIOUS_DISC": {
+        "ID": 91,
+        "key": "DUBIOUS_DISC",
+        "name": "Dubious Disc"
+    },
+    "DEEP_SEA_SCALE": {
+        "ID": 193,
+        "key": "DEEP_SEA_SCALE",
+        "name": "Deep Sea Scale"
+    },
+    "COPPERAJITE": {
+        "ID": 738,
+        "key": "COPPERAJITE",
+        "name": "Copperajite"
+    },
+    "ORBEETLITE": {
+        "ID": 740,
+        "key": "ORBEETLITE",
+        "name": "Orbeetlite"
+    },
+    "SHINY_STONE": {
+        "ID": 99,
+        "key": "SHINY_STONE",
+        "name": "Shiny Stone"
+    },
+    "RED_ORB": {
+        "ID": 276,
+        "key": "RED_ORB",
+        "name": "Red Orb"
+    },
+    "LOPUNNITE": {
+        "ID": 573,
+        "key": "LOPUNNITE",
+        "name": "Lopunnite"
+    },
+    "MEWTWONITE_Y": {
+        "ID": 547,
+        "key": "MEWTWONITE_Y",
+        "name": "Mewtwonite Y"
+    },
+    "MEWTWONITE_X": {
+        "ID": 546,
+        "key": "MEWTWONITE_X",
+        "name": "Mewtwonite X"
+    },
+    "SHARPEDONITE": {
+        "ID": 563,
+        "key": "SHARPEDONITE",
+        "name": "Sharpedonite"
+    },
+    "CENTISKITE": {
+        "ID": 743,
+        "key": "CENTISKITE",
+        "name": "Centiskite"
+    },
+    "APPLITE": {
+        "ID": 739,
+        "key": "APPLITE",
+        "name": "Applite"
+    },
+    "DAWN_STONE": {
+        "ID": 101,
+        "key": "DAWN_STONE",
+        "name": "Dawn Stone"
+    },
+    "FIRE_STONE": {
+        "ID": 95,
+        "key": "FIRE_STONE",
+        "name": "Fire Stone"
+    },
+    "WHIPPED_DREAM": {
+        "ID": 178,
+        "key": "WHIPPED_DREAM",
+        "name": "Whipped Dream"
+    },
+    "ALTARIANITE": {
+        "ID": 565,
+        "key": "ALTARIANITE",
+        "name": "Altarianite"
+    },
+    "AMPHAROSITE": {
+        "ID": 548,
+        "key": "AMPHAROSITE",
+        "name": "Ampharosite"
+    },
+    "SUN_STONE": {
+        "ID": 93,
+        "key": "SUN_STONE",
+        "name": "Sun Stone"
+    },
+    "DREDNAWITE": {
+        "ID": 737,
+        "key": "DREDNAWITE",
+        "name": "Drednawite"
+    },
+    "KANGASKHANITE": {
+        "ID": 542,
+        "key": "KANGASKHANITE",
+        "name": "Kangaskhanite"
+    },
+    "GENGARITE": {
+        "ID": 541,
+        "key": "GENGARITE",
+        "name": "Gengarite"
+    },
+    "ALCREMITE": {
+        "ID": 745,
+        "key": "ALCREMITE",
+        "name": "Alcremite"
+    },
+    "LATIASITE": {
+        "ID": 571,
+        "key": "LATIASITE",
+        "name": "Latiasite"
+    },
+    "MAWILITE": {
+        "ID": 559,
+        "key": "MAWILITE",
+        "name": "Mawilite"
+    },
+    "KINGS_ROCK": {
+        "ID": 187,
+        "key": "KINGS_ROCK",
+        "name": "Kings Rock"
+    },
+    "LINK_CABLE": {
+        "ID": 87,
+        "key": "LINK_CABLE",
+        "name": "Link Cable"
+    },
+    "SWAMPERTITE": {
+        "ID": 556,
+        "key": "SWAMPERTITE",
+        "name": "Swampertite"
+    },
+    "BLASTOISINITE": {
+        "ID": 536,
+        "key": "BLASTOISINITE",
+        "name": "Blastoisinite"
+    },
+    "UP_GRADE": {
+        "ID": 218,
+        "key": "UP_GRADE",
+        "name": "Up Grade"
+    },
+    "VENUSAURITE": {
+        "ID": 533,
+        "key": "VENUSAURITE",
+        "name": "Venusaurite"
+    },
+    "ULTRANECROZIUM_Z": {
+        "ID": 532,
+        "key": "ULTRANECROZIUM_Z",
+        "name": "Ultranecrozium Z"
+    },
+    "PINSIRITE": {
+        "ID": 543,
+        "key": "PINSIRITE",
+        "name": "Pinsirite"
+    },
+    "TYRANITARITE": {
+        "ID": 553,
+        "key": "TYRANITARITE",
+        "name": "Tyranitarite"
+    },
+    "METAGROSSITE": {
+        "ID": 570,
+        "key": "METAGROSSITE",
+        "name": "Metagrossite"
+    },
+    "PIDGEOTITE": {
+        "ID": 538,
+        "key": "PIDGEOTITE",
+        "name": "Pidgeotite"
+    },
+    "ADAMANT_ORB": {
+        "ID": 487,
+        "key": "ADAMANT_ORB",
+        "name": "Adamant Orb"
+    },
+    "SNORLAXITE": {
+        "ID": 732,
+        "key": "SNORLAXITE",
+        "name": "Snorlaxite"
+    },
+    "LATIOSITE": {
+        "ID": 572,
+        "key": "LATIOSITE",
+        "name": "Latiosite"
+    }
+}

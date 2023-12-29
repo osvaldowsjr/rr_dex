@@ -1,0 +1,3825 @@
+{
+    "PalletTown": {
+        "name": "Pallet Town",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL",
+                "TENTACRUEL"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "TENTACOOL",
+                "BINACLE"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "BARBOACH",
+                "CARVANHA",
+                "QWILFISH"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "CLAMPERL",
+                "WHISCASH"
+            ]
+        },
+        "Starter": {
+            "name": "Starter",
+            "encounters": [
+                "BULBASAUR",
+                "SQUIRTLE",
+                "CHARMANDER",
+                "CHIKORITA",
+                "TOTODILE",
+                "CYNDAQUIL",
+                "TREECKO",
+                "MUDKIP",
+                "TORCHIC",
+                "TURTWIG",
+                "PIPLUP",
+                "CHIMCHAR",
+                "SNIVY",
+                "OSHAWOTT",
+                "TEPIG",
+                "CHESPIN",
+                "FROAKIE",
+                "FENNEKIN",
+                "ROWLET",
+                "POPPLIO",
+                "LITTEN",
+                "GROOKEY",
+                "SOBBLE",
+                "SCORBUNNY",
+                "SPRIGATITO",
+                "QUAXLY",
+                "FUECOCO"
+            ]
+        }
+    },
+    "Route1": {
+        "name": "Route 1",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "BIDOOF",
+                "ZIGZAGOON",
+                "RATTATA",
+                "MIENFOO",
+                "MEOWTH",
+                "YUNGOOS",
+                "PIDGEY",
+                "SMOLIV",
+                "PANSEAR"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "POOCHYENA",
+                "ZIGZAGOON_G",
+                "RATTATA_A",
+                "SCRAGGY",
+                "MEOWTH_G",
+                "HOOTHOOT",
+                "PIDGEY",
+                "SEEDOT",
+                "PANSEAR"
+            ]
+        }
+    },
+    "ViridianCity": {
+        "name": "Viridian City",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SHINX",
+                "WOOLOO",
+                "POOCHYENA",
+                "SPEAROW",
+                "PATRAT",
+                "CUBCHOO",
+                "DEERLING_SUMMER",
+                "GREAVARD",
+                "PIKIPEK",
+                "SNOVER"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PAWMI",
+                "MAREEP",
+                "POOCHYENA",
+                "SPEAROW",
+                "PATRAT",
+                "CUBCHOO",
+                "DEERLING_AUTUMN",
+                "SHUPPET",
+                "WATTREL",
+                "SWINUB"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "LANTURN"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MARILL",
+                "CLAMPERL"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CLAUNCHER",
+                "REMORAID",
+                "CORSOLA"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "BRUXISH",
+                "CLAWITZER"
+            ]
+        }
+    },
+    "Route22": {
+        "name": "Route 22",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "STARLY",
+                "BUDEW",
+                "MANKEY",
+                "MORELULL",
+                "SNUBBULL",
+                "LILLIPUP",
+                "ODDISH",
+                "SANDYGAST",
+                "BELLSPROUT",
+                "ROCKRUFF",
+                "PANPOUR"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "STARLY",
+                "SANDSHREW_A",
+                "MANKEY",
+                "MORELULL",
+                "FLABEBE",
+                "SKWOVET",
+                "APPLIN",
+                "SANDYGAST",
+                "PARAS",
+                "ROCKRUFF",
+                "PANPOUR"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "PSYDUCK",
+                "SLOWPOKE",
+                "POLIWHIRL"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "PSYDUCK",
+                "CORPHISH"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORPHISH",
+                "MANTYKE",
+                "MAREANIE"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "BASCULIN_BLUE",
+                "WAILORD"
+            ]
+        },
+        "Roaming": {
+            "name": "Roaming",
+            "encounters": [
+                "LATIAS",
+                "LATIOS",
+                "TORNADUS",
+                "THUNDURUS",
+                "LANDORUS",
+                "WALKINGWAKE",
+                "TING_LU",
+                "CHIEN_PAO",
+                "WO_CHIEN",
+                "CHI_YU"
+            ]
+        }
+    },
+    "Route2": {
+        "name": "Route 2",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "BIDOOF",
+                "SENTRET",
+                "PONYTA",
+                "PHANPY",
+                "MEDITITE",
+                "SHINX",
+                "MAREEP",
+                "LITLEO",
+                "ZIGZAGOON",
+                "ABRA",
+                "PANSAGE"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "POOCHYENA",
+                "SENTRET",
+                "PONYTA_G",
+                "PHANPY",
+                "MEDITITE",
+                "SHINX",
+                "MAREEP",
+                "HOUNDOUR",
+                "ZIGZAGOON_G",
+                "ABRA",
+                "PANSAGE"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "PINSIR",
+                "KOFFING",
+                "IMPIDIMP",
+                "SHELLOS_EAST",
+                "SPRITZEE"
+            ]
+        },
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "ENTEI",
+                "SUICUNE",
+                "RAIKOU"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "MR_MIME_G"
+            ]
+        }
+    },
+    "ViridianForest": {
+        "name": "Viridian Forest",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "CATERPIE",
+                "WEEDLE",
+                "PIKACHU",
+                "BURMY_SANDY",
+                "SEWADDLE",
+                "SCATTERBUG",
+                "LEDYBA",
+                "SURSKIT",
+                "SHROOMISH",
+                "JOLTIK"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SPINARAK",
+                "WURMPLE",
+                "PIKACHU",
+                "BURMY_TRASH",
+                "NINCADA",
+                "KRICKETOT",
+                "LEDYBA",
+                "RELLOR",
+                "TOEDSCOOL",
+                "SNOM"
+            ]
+        },
+        "3Star": {
+            "name": "3Star",
+            "encounters": [
+                "GOURGEIST_XL",
+                "GOLURK",
+                "GRANBULL"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "IRONLEAVES",
+                "ZARUDE",
+                "SHAYMIN"
+            ]
+        },
+        "6Star": {
+            "name": "6Star",
+            "encounters": [
+                "TAPU_BULU"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "VIRIZION"
+            ]
+        }
+    },
+    "ViridianForest2": {
+        "name": "Viridian Forest 2",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "CATERPIE",
+                "WEEDLE",
+                "PIKACHU",
+                "BURMY",
+                "COMBEE",
+                "KRICKETOT",
+                "SLAKOTH",
+                "GRUBBIN",
+                "BRAMBLIN",
+                "PUMPKABOO_XL",
+                "NYMBLE"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "TAROUNTULA",
+                "BLIPBUG",
+                "PIKACHU",
+                "BURMY_TRASH",
+                "NINCADA",
+                "KRICKETOT",
+                "SLAKOTH",
+                "RELLOR",
+                "BRAMBLIN",
+                "PHANTUMP",
+                "NYMBLE"
+            ]
+        }
+    },
+    "DiglettsCaveNorthEntrance": {
+        "name": "Digletts Cave North Entrance",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DIGLETT",
+                "NACLI",
+                "NUMEL",
+                "YAMASK",
+                "SANDSHREW",
+                "GEODUDE",
+                "TRAPINCH",
+                "SILICOBRA",
+                "BRONZOR",
+                "MACHOP",
+                "NOIBAT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DIGLETT_A",
+                "NACLI",
+                "NUMEL",
+                "YAMASK_G",
+                "SANDSHREW",
+                "GEODUDE_A",
+                "TRAPINCH",
+                "SANDILE",
+                "BRONZOR",
+                "PANCHAM",
+                "NOIBAT"
+            ]
+        }
+    },
+    "PewterCity": {
+        "name": "Pewter City",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "GRIMER",
+                "STARLY",
+                "EXEGGCUTE",
+                "SPOINK",
+                "HOPPIP",
+                "NUMEL",
+                "CUTIEFLY",
+                "SINISTEA",
+                "EKANS",
+                "PHANPY",
+                "AXEW",
+                "BONSLY"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "GRIMER_A",
+                "STARLY",
+                "EXEGGCUTE",
+                "ESPURR",
+                "SKIDDO",
+                "NUMEL",
+                "GASTLY",
+                "SINISTEA",
+                "EKANS",
+                "PHANPY",
+                "AXEW",
+                "BONSLY"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "AERODACTYL"
+            ]
+        }
+    },
+    "Route3": {
+        "name": "Route 3",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "FLETCHLING",
+                "EKANS",
+                "SPEAROW",
+                "NIDORAN_M",
+                "NICKIT",
+                "SHROOMISH",
+                "BUNEARY",
+                "LITLEO",
+                "STUNKY",
+                "JIGGLYPUFF",
+                "MEOWTH_A"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "FLETCHLING",
+                "EKANS",
+                "SPEAROW",
+                "NIDORAN_F",
+                "NICKIT",
+                "SKIDDO",
+                "SHROODLE",
+                "LITLEO",
+                "GLAMEOW",
+                "JIGGLYPUFF",
+                "MEOWTH_A"
+            ]
+        },
+        "1Star": {
+            "name": "1Star",
+            "encounters": [
+                "MEOWTH_G",
+                "FLETCHLING",
+                "NIDORAN_M",
+                "CAPSAKID",
+                "TANDEMAUS"
+            ]
+        }
+    },
+    "MtMoon1F": {
+        "name": "Mt Moon 1F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "GEODUDE",
+                "ZUBAT",
+                "ROCKRUFF",
+                "TIMBURR",
+                "WOOBAT",
+                "CHEWTLE",
+                "MAKUHITA",
+                "TYROGUE",
+                "CLEFAIRY",
+                "ELGYEM",
+                "THROH"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "GEODUDE_A",
+                "ZUBAT",
+                "ROCKRUFF",
+                "MACHOP",
+                "NOIBAT",
+                "TYMPOLE",
+                "DUNSPARCE",
+                "TYROGUE",
+                "CLEFAIRY",
+                "ELGYEM",
+                "SAWK"
+            ]
+        }
+    },
+    "MtMoonB1F": {
+        "name": "Mt Moon B1 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PARAS",
+                "NACLI",
+                "ROLYCOLY",
+                "SLUGMA",
+                "TORKOAL",
+                "TEDDIURSA",
+                "TINKATINK",
+                "BALTOY",
+                "SHUPPET",
+                "RIOLU"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PARAS",
+                "NACLI",
+                "ROGGENROLA",
+                "SLUGMA",
+                "TORKOAL",
+                "TEDDIURSA",
+                "TINKATINK",
+                "SANDILE",
+                "MISDREAVUS",
+                "RIOLU"
+            ]
+        }
+    },
+    "MtMoonB2F": {
+        "name": "Mt Moon B2 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "VAROOM",
+                "ZUBAT",
+                "PAWNIARD",
+                "NUMEL",
+                "CRANIDOS",
+                "DRILBUR",
+                "MUDBRAY",
+                "SMOOCHUM",
+                "SOLROCK",
+                "ONIX"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "MAWILE",
+                "ZUBAT",
+                "PAWNIARD",
+                "ROLYCOLY",
+                "SHIELDON",
+                "DRILBUR",
+                "MUDBRAY",
+                "MUNNA",
+                "LUNATONE",
+                "ONIX"
+            ]
+        }
+    },
+    "Route4": {
+        "name": "Route 4",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PIDOVE",
+                "BELLSPROUT",
+                "SHINX",
+                "PACHIRISU",
+                "GLAMEOW",
+                "TANDEMAUS",
+                "PUMPKABOO",
+                "FLABEBE",
+                "PUMPKABOO_M",
+                "YANMA",
+                "ROOKIDEE"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PIDOVE",
+                "ODDISH",
+                "MAREEP",
+                "PACHIRISU",
+                "STUNKY",
+                "TANDEMAUS",
+                "PHANTUMP",
+                "FLABEBE",
+                "PUMPKABOO_L",
+                "YANMA",
+                "ROOKIDEE"
+            ]
+        },
+        "1Star": {
+            "name": "1Star",
+            "encounters": [
+                "PAWMI",
+                "TATSUGIRI",
+                "PANSEAR",
+                "PANSAGE",
+                "PANPOUR"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "MAGIKARP"
+            ]
+        }
+    },
+    "CeruleanCity": {
+        "name": "Cerulean City",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "GOLDUCK",
+                "DONDOZO"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "CHEWTLE",
+                "CLAUNCHER"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "WISHIWASHI",
+                "TATSUGIRI",
+                "REMORAID"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "SHARPEDO",
+                "OCTILLERY"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "CARNIVINE"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "FINIZEN"
+            ]
+        }
+    },
+    "Route24": {
+        "name": "Route 24",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SNUBBULL",
+                "PETILIL",
+                "YAMPER",
+                "TADBULB",
+                "KARRABLAST",
+                "VOLBEAT",
+                "MARILL",
+                "FARFETCHD",
+                "RALTS",
+                "ABRA",
+                "KLAWF"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SNUBBULL",
+                "COTTONEE",
+                "YAMPER",
+                "TADBULB",
+                "KARRABLAST",
+                "ILLUMISE",
+                "BUIZEL",
+                "MURKROW",
+                "RALTS",
+                "ABRA",
+                "KLAWF"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "GOLDUCK"
+            ]
+        },
+        "1Star": {
+            "name": "1Star",
+            "encounters": [
+                "SHROODLE",
+                "ABRA",
+                "CHARCADET",
+                "APPLIN",
+                "LOTAD"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "CARVANHA",
+                "LOTAD"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "WAILMER",
+                "WISHIWASHI",
+                "CARVANHA"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "SHARPEDO",
+                "OCTILLERY"
+            ]
+        }
+    },
+    "Route25": {
+        "name": "Route 25",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SWABLU",
+                "TAILLOW",
+                "PINECO",
+                "CHARCADET",
+                "ELEKID",
+                "DODUO",
+                "AIPOM",
+                "WHISMUR",
+                "SQUAWKABILLY",
+                "AUDINO",
+                "ZANGOOSE"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SWABLU",
+                "TAILLOW",
+                "VENONAT",
+                "CHARCADET",
+                "MAGBY",
+                "DODUO",
+                "AIPOM",
+                "PURRLOIN",
+                "SQUAWKABILLY_2",
+                "AUDINO",
+                "SEVIPER"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "PSYDUCK"
+            ]
+        },
+        "1Star": {
+            "name": "1Star",
+            "encounters": [
+                "TADBULB",
+                "PSYDUCK",
+                "KLAWF",
+                "MILCERY",
+                "CLAUNCHER"
+            ]
+        },
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "NECROZMA",
+                "CALYREX",
+                "CELEBI"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "CHINCHOU"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "DEWPIDER",
+                "MANTYKE",
+                "GOLDEEN"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "POLIWAG",
+                "POLIWHIRL",
+                "GYARADOS",
+                "PSYDUCK"
+            ]
+        }
+    },
+    "Route5": {
+        "name": "Route 5",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "MEOWTH",
+                "HATENNA",
+                "SOLOSIS",
+                "GROWLITHE",
+                "SWIRLIX",
+                "MORELULL",
+                "VULPIX",
+                "GRIMER",
+                "DRIFLOON"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "MEOWTH_G",
+                "HATENNA",
+                "GOTHITA",
+                "VULPIX_A",
+                "SPRITZEE",
+                "MORELULL",
+                "GROWLITHE_H",
+                "GRIMER_A",
+                "DRIFLOON"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "HATENNA",
+                "FLAMIGO",
+                "FLITTLE",
+                "RHYHORN",
+                "ORICORIO"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "EISCUE"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "EEVEE"
+            ]
+        }
+    },
+    "Route6": {
+        "name": "Route 6",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SUNKERN",
+                "CHERUBI",
+                "GULPIN",
+                "FURFROU",
+                "SIZZLIPEDE",
+                "DEDENNE",
+                "LICKITUNG",
+                "FLITTLE",
+                "TOGEPI"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "BOUNSWEET",
+                "GOSSIFLEUR",
+                "TRUBBISH",
+                "FURFROU",
+                "SIZZLIPEDE",
+                "DEDENNE",
+                "KOMALA",
+                "MEDITITE",
+                "TOGEPI"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "PSYDUCK"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "APPLIN",
+                "LITLEO",
+                "MIENFOO",
+                "BLITZLE",
+                "SQUAWKABILLY"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "CHINCHOU",
+                "SHELLDER"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "SLOWPOKE_G",
+                "SKRELP",
+                "BASCULIN_RED"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SLOWBRO_G",
+                "LANTURN",
+                "GYARADOS",
+                "PSYDUCK",
+                "GOLDUCK"
+            ]
+        }
+    },
+    "VermilionCity": {
+        "name": "Vermilion City",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL",
+                "PELIPPER",
+                "CRAMORANT"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "ARROKUDA",
+                "FINNEON"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "FRILLISH",
+                "SHELLDER",
+                "KRABBY"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "ALOMOMOLA",
+                "SEADRA",
+                "GYARADOS"
+            ]
+        },
+        "FossilVendor": {
+            "name": "Fossil Vendor",
+            "encounters": [
+                "CRANIDOS",
+                "TYRUNT",
+                "LILEEP",
+                "ARCHEN",
+                "KABUTO",
+                "TIRTOUGA",
+                "OMANYTE",
+                "ANORITH",
+                "SHIELDON",
+                "AMAURA"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "FARFETCHD_G"
+            ]
+        }
+    },
+    "Route11": {
+        "name": "Route 11",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "STUFFUL",
+                "DUCKLETT",
+                "DROWZEE",
+                "BALTOY",
+                "MARACTUS",
+                "BUNNELBY",
+                "SCRAGGY",
+                "FLAMIGO",
+                "SIGILYPH"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PANCHAM",
+                "DUCKLETT",
+                "DROWZEE",
+                "BALTOY",
+                "CACNEA",
+                "BUNNELBY",
+                "SCRAGGY",
+                "BOMBIRDIER",
+                "SIGILYPH"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "SCRAGGY",
+                "VELUZA",
+                "DROWZEE",
+                "MISDREAVUS",
+                "SWADLOON"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "KRABBY",
+                "HORSEA"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "BRUXISH",
+                "FRILLISH",
+                "RELICANTH"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "ALOMOMOLA",
+                "SEADRA",
+                "GYARADOS"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "FLOETTE_ETERNAL"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL"
+            ]
+        }
+    },
+    "DiglettsCaveB1F": {
+        "name": "Digletts Cave B1 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DIGLETT",
+                "STUNFISK",
+                "SILICOBRA",
+                "GOLETT",
+                "SANDILE",
+                "DRILBUR",
+                "GLIGAR",
+                "DUGTRIO",
+                "HIPPOPOTAS"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DIGLETT_A",
+                "STUNFISK_G",
+                "SILICOBRA",
+                "SHELLOS",
+                "SANDILE",
+                "DRILBUR",
+                "GLIGAR",
+                "SANDYGAST",
+                "DUGTRIO_A",
+                "HIPPOPOTAS"
+            ]
+        }
+    },
+    "SSAnne": {
+        "name": "SSAnne",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL",
+                "TENTACRUEL",
+                "BARRASKEWDA"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "WIMPOD",
+                "FINNEON"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "VELUZA",
+                "STARYU",
+                "KRABBY"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "ALOMOMOLA",
+                "SEADRA",
+                "GYARADOS"
+            ]
+        }
+    },
+    "Route9": {
+        "name": "Route 9",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SHELMET",
+                "EXEGGCUTE",
+                "DARUMAKA",
+                "DEWPIDER",
+                "INDEEDEE",
+                "RUFFLET",
+                "MIME_JR",
+                "TROPIUS",
+                "SKORUPI"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SHELMET",
+                "EXEGGCUTE",
+                "SALANDIT",
+                "DEWPIDER",
+                "INDEEDEE_FEMALE",
+                "RUFFLET",
+                "ESPURR",
+                "TROPIUS",
+                "SKORUPI"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "SHELMET",
+                "ELECTRODE_H",
+                "FALINKS",
+                "TURTONATOR",
+                "TANGELA"
+            ]
+        }
+    },
+    "Route10": {
+        "name": "Route 10",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "VOLTORB",
+                "HELIOPTILE",
+                "BLITZLE",
+                "PINCURCHIN",
+                "PLUSLE",
+                "SKITTY",
+                "TADBULB",
+                "MAGNEMITE",
+                "CROAGUNK"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "VOLTORB_H",
+                "ELECTRIKE",
+                "BLITZLE",
+                "PINCURCHIN",
+                "MINUN",
+                "SKITTY",
+                "EMOLGA",
+                "MAGNEMITE",
+                "SNEASEL_H"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL",
+                "WINGULL"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "ZORUA_H",
+                "ZORUA",
+                "EEVEE",
+                "HERACROSS",
+                "TOXEL"
+            ]
+        },
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "AZELF",
+                "MESPRIT",
+                "UXIE"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "WOOPER",
+                "TYNAMO"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "BARBOACH",
+                "SHELLOS_EAST",
+                "CORSOLA_G"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "WHISCASH",
+                "BASCULIN_BLUE",
+                "SEADRA"
+            ]
+        }
+    },
+    "RockTunnel1F": {
+        "name": "Rock Tunnel 1F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "GRAVELER",
+                "ARON",
+                "SHUCKLE",
+                "SOLROCK",
+                "CARKOL",
+                "CARBINK",
+                "MINIOR_SHIELD",
+                "FERROSEED",
+                "STONJOURNER",
+                "HEATMOR",
+                "DURANT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "GRAVELER_A",
+                "ARON",
+                "DWEBBLE",
+                "LUNATONE",
+                "ONIX",
+                "CARBINK",
+                "MINIOR_SHIELD",
+                "FERROSEED",
+                "STONJOURNER",
+                "HEATMOR",
+                "DURANT"
+            ]
+        }
+    },
+    "RockTunnelB1F": {
+        "name": "Rock Tunnel B1 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SANDSLASH",
+                "BOLDORE",
+                "SWINUB",
+                "SNORUNT",
+                "BRONZOR",
+                "BONSLY",
+                "CETODDLE",
+                "CUBCHOO",
+                "GLIMMET"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SANDSLASH_A",
+                "RHYHORN",
+                "SWINUB",
+                "CUBONE",
+                "NOSEPASS",
+                "BONSLY",
+                "CETODDLE",
+                "SNEASEL",
+                "GLIMMET"
+            ]
+        }
+    },
+    "Route7": {
+        "name": "Route 7",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DEERLING",
+                "INKAY",
+                "RUFFLET",
+                "CUTIEFLY",
+                "APPLIN",
+                "PASSIMIAN",
+                "MIENFOO",
+                "PORYGON"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DEERLING_WINTER",
+                "INKAY",
+                "VULLABY",
+                "CUTIEFLY",
+                "APPLIN",
+                "ORANGURU",
+                "MIENFOO",
+                "PORYGON"
+            ]
+        }
+    },
+    "Route8": {
+        "name": "Route 8",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "LOMBRE",
+                "MINCCINO",
+                "VULPIX",
+                "BOUFFALANT",
+                "VENIPEDE",
+                "COMFEY",
+                "GIRAFARIG",
+                "MILTANK"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "LOMBRE",
+                "MINCCINO",
+                "GROWLITHE",
+                "ABSOL",
+                "VENIPEDE",
+                "MORGREM",
+                "STANTLER",
+                "DRAMPA"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "VENIPEDE",
+                "GIRAFARIG",
+                "YANMA",
+                "DRAMPA",
+                "BASCULEGION"
+            ]
+        }
+    },
+    "PokemonTower3F": {
+        "name": "Pokemon Tower 3F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HAUNTER",
+                "COFAGRIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "LAMPENT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "HAUNTER",
+                "RUNERIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "LAMPENT"
+            ]
+        }
+    },
+    "PokemonTower4F": {
+        "name": "Pokemon Tower 4F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HAUNTER",
+                "COFAGRIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "HOUNDSTONE",
+                "LAMPENT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "HAUNTER",
+                "RUNERIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "HOUNDSTONE",
+                "LAMPENT"
+            ]
+        }
+    },
+    "PokemonTower5F": {
+        "name": "Pokemon Tower 5F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HAUNTER",
+                "COFAGRIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "LAMPENT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "HAUNTER",
+                "RUNERIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "LAMPENT"
+            ]
+        }
+    },
+    "PokemonTower6F": {
+        "name": "Pokemon Tower 6F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HAUNTER",
+                "COFAGRIGUS",
+                "DUSCLOPS",
+                "ANNIHILAPE",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "LAMPENT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "HAUNTER",
+                "RUNERIGUS",
+                "DUSCLOPS",
+                "ANNIHILAPE",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "LAMPENT"
+            ]
+        }
+    },
+    "PokemonTower7F": {
+        "name": "Pokemon Tower 7F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HAUNTER",
+                "COFAGRIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "ROTOM"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "HAUNTER",
+                "RUNERIGUS",
+                "DUSCLOPS",
+                "MISMAGIUS",
+                "CUBONE",
+                "SPIRITOMB",
+                "SABLEYE",
+                "POLTEAGEIST",
+                "ROTOM"
+            ]
+        }
+    },
+    "Route16": {
+        "name": "Route 16",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HERACROSS",
+                "YANMA",
+                "RHYHORN",
+                "SKORUPI",
+                "CUFANT",
+                "DURANT",
+                "TOGEDEMARU",
+                "SKARMORY",
+                "ORTHWORM",
+                "ESCAVALIER"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SCYTHER",
+                "FORRETRESS",
+                "RHYHORN",
+                "FALINKS",
+                "CUFANT",
+                "DURANT",
+                "TOGEDEMARU",
+                "SKARMORY",
+                "ORTHWORM",
+                "ESCAVALIER"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "PORYGON",
+                "PASSIMIAN",
+                "ORANGURU",
+                "CRAMORANT",
+                "KLEAVOR"
+            ]
+        },
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "ZYGARDE_10",
+                "DIANCIE",
+                "IRONTHORNS"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "SNORLAX"
+            ]
+        }
+    },
+    "Route17": {
+        "name": "Route 17",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "WEEZING",
+                "CYCLIZAR",
+                "MUK",
+                "ZEBSTRIKA",
+                "GRUMPIG",
+                "TORKOAL",
+                "SKARMORY",
+                "DRAMPA",
+                "DRACOZOLT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "WEEZING_G",
+                "CYCLIZAR",
+                "MUK_A",
+                "ZEBSTRIKA",
+                "GRUMPIG",
+                "TORKOAL",
+                "SKARMORY",
+                "TURTONATOR",
+                "DRACOZOLT"
+            ]
+        }
+    },
+    "Route18": {
+        "name": "Route 18",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "XATU",
+                "VIKAVOLT",
+                "POLIWRATH",
+                "ABOMASNOW",
+                "ALTARIA",
+                "PARASECT",
+                "TOXICROAK",
+                "KABUTOPS",
+                "ARCTOVISH",
+                "DRACOVISH"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "XATU",
+                "VIKAVOLT",
+                "POLITOED",
+                "ABOMASNOW",
+                "ALTARIA",
+                "JYNX",
+                "HELIOLISK",
+                "OMASTAR",
+                "ARCTOVISH",
+                "DRACOVISH"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "MORPEKO"
+            ]
+        }
+    },
+    "Route12": {
+        "name": "Route 12",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SNEASEL",
+                "DEWGONG",
+                "WALREIN",
+                "GLALIE",
+                "THROH",
+                "CETITAN",
+                "AVALUGG",
+                "MR_MIME_G",
+                "ARCTOVISH",
+                "ARCTOZOLT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SNEASEL",
+                "DEWGONG",
+                "WALREIN",
+                "FROSLASS",
+                "SAWK",
+                "CETITAN",
+                "AVALUGG_H",
+                "MR_MIME_G",
+                "ARCTOVISH",
+                "ARCTOZOLT"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL",
+                "TENTACRUEL",
+                "FINNEON"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "CORSOLA_G",
+                "SLOWPOKE_G",
+                "SLIGGOO_H",
+                "LUVDISC",
+                "TAUROS"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "SPHEAL",
+                "SEEL"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "SHELLDER",
+                "SEALEO",
+                "VELUZA"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "DONDOZO",
+                "DEWGONG",
+                "BRUXISH",
+                "DREDNAW"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "SNORLAX"
+            ]
+        }
+    },
+    "CeladonCity": {
+        "name": "Celadon City",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "POLIWHIRL"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "ARROKUDA"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "POLIWAG",
+                "SLOWPOKE_G"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "PSYDUCK",
+                "MAREANIE",
+                "MUK",
+                "MUK_A"
+            ]
+        },
+        "GameCorner": {
+            "name": "Game Corner",
+            "encounters": [
+                "DRATINI",
+                "LARVITAR",
+                "BELDUM",
+                "BAGON",
+                "RIOLU",
+                "ROTOM",
+                "GIBLE",
+                "LARVESTA",
+                "DEINO",
+                "GOOMY",
+                "JANGMO_O",
+                "TOXEL",
+                "DREEPY",
+                "HONEDGE",
+                "FRIGIBAX"
+            ]
+        },
+        "RedShard": {
+            "name": "Red Shard",
+            "encounters": [
+                "CHARMANDER",
+                "CYNDAQUIL",
+                "TORCHIC",
+                "CHIMCHAR",
+                "TEPIG",
+                "FENNEKIN",
+                "LITTEN",
+                "SCORBUNNY",
+                "FUECOCO"
+            ]
+        },
+        "GreenShard": {
+            "name": "Green Shard",
+            "encounters": [
+                "BULBASAUR",
+                "CHIKORITA",
+                "TREECKO",
+                "TURTWIG",
+                "SNIVY",
+                "CHESPIN",
+                "ROWLET",
+                "GROOKEY",
+                "SPRIGATITO"
+            ]
+        },
+        "BlueShard": {
+            "name": "Blue Shard",
+            "encounters": [
+                "SQUIRTLE",
+                "TOTODILE",
+                "MUDKIP",
+                "PIPLUP",
+                "OSHAWOTT",
+                "FROAKIE",
+                "POPPLIO",
+                "SOBBLE",
+                "QUAXLY"
+            ]
+        },
+        "YellowShard": {
+            "name": "Yellow Shard",
+            "encounters": [
+                "PIKACHU",
+                "PIKACHU_BELLE",
+                "PIKACHU_ROCK_STAR",
+                "PIKACHU_LIBRE",
+                "PIKACHU_PHD",
+                "PIKACHU_FLYING",
+                "PIKACHU_SURFING",
+                "PIKACHU_POP_STAR"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "CHATOT"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "EEVEE"
+            ]
+        }
+    },
+    "Route13": {
+        "name": "Route 13",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "TANGROWTH",
+                "EXEGGUTOR",
+                "ROSELIA",
+                "LURANTIS",
+                "SIMISAGE",
+                "JUMPLUFF",
+                "BULBASAUR",
+                "EXEGGUTOR_A",
+                "DURALUDON",
+                "CHARMANDER"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "TALONFLAME",
+                "PYROAR",
+                "ARCANINE",
+                "MAGMAR",
+                "SIMISEAR",
+                "ORICORIO",
+                "CHARMANDER",
+                "TURTONATOR",
+                "DURALUDON",
+                "CENTISKORCH"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACOOL",
+                "BUIZEL"
+            ]
+        },
+        "3Star": {
+            "name": "3Star",
+            "encounters": [
+                "INDEEDEE",
+                "DURALUDON",
+                "QWILFISH_H",
+                "BRELOOM",
+                "TORKOAL"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "VICTINI",
+                "VOLCANION",
+                "CRESSELIA"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "SKRELP",
+                "TATSUGIRI"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "MAREANIE",
+                "DEWPIDER",
+                "SKRELP"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "DRAGALGE",
+                "VELUZA",
+                "TOXAPEX",
+                "MANTINE"
+            ]
+        }
+    },
+    "Route14": {
+        "name": "Route 14",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PELIPPER",
+                "SWADLOON",
+                "TORKOAL",
+                "WHIRLIPEDE",
+                "CHARJABUG",
+                "DURANT",
+                "GOLISOPOD"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PELIPPER",
+                "SWADLOON",
+                "TORKOAL",
+                "PALOSSAND",
+                "CHARJABUG",
+                "DURANT",
+                "GOLISOPOD"
+            ]
+        },
+        "3Star": {
+            "name": "3Star",
+            "encounters": [
+                "PELIPPER",
+                "AMOONGUSS",
+                "SNEASEL_H",
+                "DEDENNE",
+                "WEEZING_G"
+            ]
+        }
+    },
+    "Route15": {
+        "name": "Route 15",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "AMOONGUSS",
+                "AMBIPOM",
+                "TSAREENA",
+                "GALVANTULA",
+                "SIMIPOUR",
+                "ORICORIO",
+                "SIGILYPH",
+                "FERROTHORN",
+                "DITTO"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "AMOONGUSS",
+                "AMBIPOM",
+                "TSAREENA",
+                "GALVANTULA",
+                "SIMIPOUR",
+                "ORICORIO",
+                "SIGILYPH",
+                "FERROTHORN",
+                "DITTO"
+            ]
+        },
+        "3Star": {
+            "name": "3Star",
+            "encounters": [
+                "SIGILYPH",
+                "EXPLOUD",
+                "DUSCLOPS",
+                "PERSIAN_A",
+                "PINCURCHIN"
+            ]
+        }
+    },
+    "SafariZoneCenter": {
+        "name": "Safari Zone Center",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "KECLEON",
+                "SPINDA",
+                "IRONHANDS",
+                "MELTAN",
+                "PORYGON",
+                "SCYTHER",
+                "CHANSEY"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "KECLEON",
+                "SPINDA",
+                "IRONMOTH",
+                "MELTAN",
+                "PORYGON",
+                "HERACROSS",
+                "CHANSEY"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "FRILLISH",
+                "GOLDUCK",
+                "JELLICENT"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "KRABBY"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "QWILFISH",
+                "MAREANIE",
+                "MANTYKE"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "ALOMOMOLA",
+                "BASCULIN_RED",
+                "SHARPEDO",
+                "FEEBAS"
+            ]
+        }
+    },
+    "SafariZoneEast": {
+        "name": "Safari Zone East",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "HAWLUCHA",
+                "CASTFORM",
+                "TAUROS",
+                "TAUROS_P",
+                "WOBBUFFET",
+                "ZORUA",
+                "PINSIR",
+                "KANGASKHAN"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "HAWLUCHA",
+                "CASTFORM",
+                "TAUROS_P_FIRE",
+                "TAUROS_P_WATER",
+                "WOBBUFFET",
+                "ZORUA_H",
+                "PINSIR",
+                "KANGASKHAN"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "WIMPOD",
+                "LANTURN",
+                "ARAQUANID",
+                "SEISMITOAD"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "ARROKUDA"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORSOLA",
+                "SEADRA",
+                "REMORAID"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "GOREBYSS",
+                "HUNTAIL",
+                "STARMIE",
+                "DHELMISE"
+            ]
+        }
+    },
+    "SafariZoneNorth": {
+        "name": "Safari Zone North",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "KLEFKI",
+                "SANDYSHOCKS",
+                "SCREAMTAIL",
+                "BISHARP",
+                "SKARMORY",
+                "GIMMIGHOUL_CHEST",
+                "AXEW"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "KLEFKI",
+                "SANDYSHOCKS",
+                "BRUTEBONNET",
+                "BISHARP",
+                "CORVIKNIGHT",
+                "GIMMIGHOUL_CHEST",
+                "AXEW"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "DEWPIDER",
+                "TOXAPEX",
+                "GOLISOPOD"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "POLIWAG"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "PYUKUMUKU",
+                "KRABBY",
+                "WAILMER"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "KINGLER",
+                "BRUXISH",
+                "TATSUGIRI",
+                "SKRELP"
+            ]
+        }
+    },
+    "SafariZoneWest": {
+        "name": "Safari Zone West",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DRUDDIGON",
+                "IRONTHORNS",
+                "HIPPOWDON",
+                "SLITHERWING",
+                "CRABOMINABLE",
+                "SMEARGLE"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DRUDDIGON",
+                "IRONJUGULIS",
+                "HIPPOWDON",
+                "SLITHERWING",
+                "CRABOMINABLE",
+                "SMEARGLE"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "LUMINEON",
+                "FLOATZEL",
+                "RELICANTH",
+                "GOLDUCK",
+                "MILOTIC"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "HORSEA"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "QWILFISH",
+                "SEADRA",
+                "WAILMER"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "CRAWDAUNT",
+                "SEAKING",
+                "BASCULIN_RED",
+                "RELICANTH"
+            ]
+        }
+    },
+    "Route19": {
+        "name": "Route 19",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "LUMINEON",
+                "JELLICENT",
+                "BASCULIN_BLUE",
+                "CLAWITZER"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "CLAMPERL",
+                "HORSEA"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "SHELLDER",
+                "SLOWPOKE"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SEADRA",
+                "HUNTAIL",
+                "GOREBYSS",
+                "MANTINE"
+            ]
+        }
+    },
+    "Route20": {
+        "name": "Route 20",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACRUEL",
+                "SHARPEDO",
+                "WAILORD",
+                "LANTURN"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "CHINCHOU"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "WAILMER",
+                "CLAUNCHER",
+                "CORSOLA_G"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SEADRA",
+                "BASCULIN_BLUE",
+                "CLAWITZER",
+                "BRUXISH"
+            ]
+        }
+    },
+    "Route21A": {
+        "name": "Route 21 A",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "WOOPER",
+                "LECHONK",
+                "WIGLETT",
+                "DWEBBLE",
+                "SNUBBULL",
+                "WINGULL",
+                "FIDOUGH",
+                "CAPSAKID"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "WOOPER_P",
+                "LECHONK",
+                "WIGLETT",
+                "DWEBBLE",
+                "SNUBBULL",
+                "WINGULL",
+                "MASCHIFF",
+                "LOTAD"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACRUEL",
+                "BARRASKEWDA",
+                "LUMINEON",
+                "CRAMORANT"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "SHELLDER"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "KRABBY",
+                "QWILFISH",
+                "CORSOLA_G"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "OCTILLERY",
+                "LUMINEON",
+                "KINGLER",
+                "RELICANTH"
+            ]
+        }
+    },
+    "Route21B": {
+        "name": "Route 21 B",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACRUEL",
+                "MANTINE",
+                "JELLICENT"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "SHELLDER"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "KRABBY",
+                "QWILFISH",
+                "CORSOLA"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "OCTILLERY",
+                "LUMINEON",
+                "SHARPEDO",
+                "RELICANTH"
+            ]
+        }
+    },
+    "SeafoamIslands1F": {
+        "name": "Seafoam Islands 1F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PILOSWINE",
+                "SNORUNT",
+                "BEARTIC",
+                "SLOWBRO",
+                "GOLBAT",
+                "AVALUGG",
+                "JYNX"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SANDSLASH_A",
+                "SNORUNT",
+                "BEARTIC",
+                "WALREIN",
+                "GOLBAT",
+                "AVALUGG",
+                "JYNX"
+            ]
+        }
+    },
+    "SeafoamIslandsB1F": {
+        "name": "Seafoam Islands B1 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PILOSWINE",
+                "DARMANITAN_G",
+                "VANILLUXE",
+                "SLOWKING",
+                "GOLBAT",
+                "CRYOGONAL",
+                "DELIBIRD"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SANDSLASH_A",
+                "DARMANITAN_G",
+                "VANILLUXE",
+                "GOLDUCK",
+                "GOLBAT",
+                "CRYOGONAL",
+                "DELIBIRD"
+            ]
+        }
+    },
+    "SeafoamIslandsB2F": {
+        "name": "Seafoam Islands B2 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "ABOMASNOW",
+                "SNOVER",
+                "NINETALES_A",
+                "CRAWDAUNT",
+                "GOLBAT",
+                "SNEASEL",
+                "DELIBIRD"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "ABOMASNOW",
+                "SNORUNT",
+                "NINETALES_A",
+                "KINGLER",
+                "GOLBAT",
+                "SNEASEL",
+                "DELIBIRD"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "DEWGONG",
+                "WALREIN",
+                "CRAWDAUNT"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "GOLDEEN"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "SPHEAL",
+                "MAREANIE",
+                "KRABBY"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SEADRA",
+                "GYARADOS",
+                "CRAWDAUNT"
+            ]
+        }
+    },
+    "SeafoamIslandsB3F": {
+        "name": "Seafoam Islands B3 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PILOSWINE",
+                "DARMANITAN_G",
+                "NINETALES_A",
+                "DEWGONG",
+                "GOLBAT",
+                "FROSMOTH",
+                "JYNX"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SANDSLASH_A",
+                "DARMANITAN_G",
+                "NINETALES_A",
+                "GOLDUCK",
+                "GOLBAT",
+                "FROSMOTH",
+                "JYNX"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "GOLDUCK",
+                "SLOWBRO",
+                "SHARPEDO"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "REMORAID"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "SPHEAL",
+                "SHELLDER",
+                "CARVANHA"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SEADRA",
+                "GYARADOS",
+                "GRAPPLOCT"
+            ]
+        }
+    },
+    "CinnabarIsland": {
+        "name": "Cinnabar Island",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "TENTACRUEL",
+                "MANTINE",
+                "CRAMORANT"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "CORSOLA"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "KRABBY",
+                "QWILFISH",
+                "FEEBAS"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "OCTILLERY",
+                "LUMINEON",
+                "SHARPEDO",
+                "DHELMISE"
+            ]
+        },
+        "Trade": {
+            "name": "Trade",
+            "encounters": [
+                "MIMIKYU",
+                "GRIMMSNARL"
+            ]
+        }
+    },
+    "PokemonMansion1F": {
+        "name": "Pokemon Mansion 1F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "RATICATE",
+                "AUDINO",
+                "MUK",
+                "WEEZING",
+                "LIEPARD",
+                "ARCANINE",
+                "SABLEYE",
+                "CHIMECHO"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "RATICATE_A",
+                "AUDINO",
+                "MUK_A",
+                "WEEZING_G",
+                "LIEPARD",
+                "NINETALES",
+                "SABLEYE",
+                "CHIMECHO"
+            ]
+        }
+    },
+    "PokemonMansion2F": {
+        "name": "Pokemon Mansion 2F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "GUMSHOOS",
+                "GARBODOR",
+                "WEEZING",
+                "SWALOT",
+                "HEATMOR",
+                "SALAZZLE",
+                "HOUNDOOM",
+                "BANETTE",
+                "CHIMECHO"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "OBSTAGOON",
+                "GARBODOR",
+                "WEEZING_G",
+                "SWALOT",
+                "HEATMOR",
+                "SALAZZLE",
+                "NINETALES",
+                "BANETTE",
+                "CHIMECHO"
+            ]
+        }
+    },
+    "PokemonMansion3F": {
+        "name": "Pokemon Mansion 3F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "BEWEAR",
+                "SEVIPER",
+                "ARIADOS",
+                "RAPIDASH",
+                "SKUNTANK",
+                "ARMAROUGE",
+                "KROOKODILE",
+                "CHIMECHO"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "KOMALA",
+                "SEVIPER",
+                "ARIADOS",
+                "RAPIDASH_G",
+                "SKUNTANK",
+                "CERULEDGE",
+                "KROOKODILE",
+                "CHIMECHO"
+            ]
+        }
+    },
+    "PokemonMansionB1F": {
+        "name": "Pokemon Mansion B1 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "RATICATE",
+                "GARBODOR",
+                "ARIADOS",
+                "MAGMAR",
+                "MIGHTYENA",
+                "ARCANINE",
+                "BANETTE",
+                "CHIMECHO"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "RATICATE_A",
+                "GARBODOR",
+                "ARIADOS",
+                "MAGMAR",
+                "MIGHTYENA",
+                "NINETALES",
+                "BANETTE",
+                "CHIMECHO"
+            ]
+        }
+    },
+    "PowerPlant": {
+        "name": "Power Plant",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "MAGNETON",
+                "ELECTRODE",
+                "ZEBSTRIKA",
+                "EELEKTROSS",
+                "AMPHAROS",
+                "DEDENNE",
+                "ELECTABUZZ"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "MAGNETON",
+                "ELECTRODE",
+                "MANECTRIC",
+                "VIKAVOLT",
+                "AMPHAROS",
+                "TOGEDEMARU",
+                "ELECTABUZZ"
+            ]
+        },
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "DRACOZOLT",
+                "ARCTOZOLT",
+                "HELIOLISK"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "ZERAORA",
+                "IRONVALIANT",
+                "REGIELEKI"
+            ]
+        },
+        "6Star": {
+            "name": "6Star",
+            "encounters": [
+                "TAPU_KOKO"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "ZAPDOS",
+                "ZAPDOS_G"
+            ]
+        }
+    },
+    "CeruleanCave1F": {
+        "name": "Cerulean Cave 1F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PARASECT",
+                "GOLBAT",
+                "MACHAMP",
+                "MAGNETON",
+                "SEISMITOAD",
+                "DURALUDON",
+                "TYPE_NULL"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PARASECT",
+                "GOLBAT",
+                "CONKELDURR",
+                "MAGNETON",
+                "SEISMITOAD",
+                "DURALUDON",
+                "TYPE_NULL"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "SEISMITOAD",
+                "GOLDUCK",
+                "CRAWDAUNT",
+                "KINGLER"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP",
+                "STARYU"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CARVANHA",
+                "PYUKUMUKU",
+                "KRABBY"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SEISMITOAD",
+                "POLIWHIRL",
+                "CRAWDAUNT"
+            ]
+        }
+    },
+    "CeruleanCave2F": {
+        "name": "Cerulean Cave 2F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "BRUTEBONNET",
+                "GREATTUSK",
+                "PRIMEAPE",
+                "AUDINO",
+                "ALAKAZAM",
+                "DURALUDON",
+                "TYPE_NULL"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "BRUTEBONNET",
+                "GREATTUSK",
+                "PANGORO",
+                "AUDINO",
+                "REUNICLUS",
+                "DURALUDON",
+                "TYPE_NULL"
+            ]
+        }
+    },
+    "CeruleanCaveB1F": {
+        "name": "Cerulean Cave B1 F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "IRONTREADS",
+                "NOIVERN",
+                "MEDICHAM",
+                "LOPUNNY",
+                "GARDEVOIR",
+                "EXCADRILL",
+                "TYPE_NULL"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "IRONTREADS",
+                "NOIVERN",
+                "TOXICROAK",
+                "LOPUNNY",
+                "GARDEVOIR",
+                "EXCADRILL",
+                "TYPE_NULL"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "SHARPEDO",
+                "SLOWBRO",
+                "TOXAPEX",
+                "MILOTIC"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "FEEBAS",
+                "MAREANIE"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORPHISH",
+                "KRABBY",
+                "MAREANIE"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "POLIWRATH",
+                "CRAWDAUNT",
+                "SHARPEDO",
+                "GYARADOS"
+            ]
+        }
+    },
+    "Route23": {
+        "name": "Route 23",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "PRIMEAPE",
+                "FEAROW",
+                "SIMISAGE",
+                "SIMISEAR",
+                "SIMIPOUR",
+                "SEVIPER",
+                "GOLBAT",
+                "STARAPTOR"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "PRIMEAPE",
+                "FEAROW",
+                "SIMISAGE",
+                "SIMISEAR",
+                "SIMIPOUR",
+                "SEVIPER",
+                "GOLBAT",
+                "STARAPTOR"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "PSYDUCK"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "MAGIKARP"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "POLIWAG",
+                "GOLDEEN",
+                "MAGIKARP"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "POLIWAG",
+                "PSYDUCK",
+                "POLIWHIRL",
+                "GYARADOS"
+            ]
+        }
+    },
+    "VictoryRoad1F": {
+        "name": "Victory Road 1F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "IRONVALIANT",
+                "METAGROSS",
+                "GOODRA",
+                "STEELIX",
+                "AUDINO",
+                "SALAMENCE",
+                "VOLCARONA",
+                "AEGISLASH",
+                "MAROWAK"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "FLUTTERMANE",
+                "METAGROSS",
+                "GOODRA_H",
+                "STEELIX",
+                "AUDINO",
+                "SALAMENCE",
+                "VOLCARONA",
+                "AEGISLASH",
+                "MAROWAK_A"
+            ]
+        }
+    },
+    "VictoryRoad2F": {
+        "name": "Victory Road 2F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "BAXCALIBUR",
+                "GARCHOMP",
+                "TYRANITAR",
+                "MACHAMP",
+                "MEDICHAM",
+                "LUCARIO",
+                "KOMMO_O"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "BAXCALIBUR",
+                "GARCHOMP",
+                "TYRANITAR",
+                "MACHAMP",
+                "MEDICHAM",
+                "LUCARIO",
+                "KOMMO_O"
+            ]
+        }
+    },
+    "VictoryRoad3F": {
+        "name": "Victory Road 3F",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DRAGONITE",
+                "IRONBUNDLE",
+                "DRAGAPULT",
+                "MAWILE",
+                "TOXTRICITY",
+                "SCIZOR",
+                "AERODACTYL"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DRAGONITE",
+                "ROARINGMOON",
+                "DRAGAPULT",
+                "MAWILE",
+                "TOXTRICITY",
+                "SCIZOR",
+                "AERODACTYL"
+            ]
+        }
+    },
+    "KindleRoad": {
+        "name": "Kindle Road",
+        "LandMons": {
+            "name": "Land Mons",
+            "encounters": [
+                "ABSOL",
+                "SMEARGLE",
+                "ALCREMIE_STRAWBERRY",
+                "CENTISKORCH",
+                "GARDEVOIR",
+                "SEVIPER"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "ABSOL",
+                "SMEARGLE",
+                "ALCREMIE_STRAWBERRY",
+                "CENTISKORCH_S",
+                "GRIMMSNARL",
+                "EELEKTROSS"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "MANTYKE_S",
+                "PYUKUMUKU",
+                "CRAMORANT",
+                "MANTINE_S"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "FEEBAS",
+                "REMORAID"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORSOLA_G",
+                "QWILFISH"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "GOREBYSS",
+                "HUNTAIL"
+            ]
+        }
+    },
+    "TreasureBeach": {
+        "name": "Treasure Beach",
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "MANTYKE_S",
+                "BASCULEGION",
+                "BASCULEGION_F",
+                "MANTINE_S"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "SIRFETCHD",
+                "LILLIGANT_H",
+                "SANDACONDA",
+                "KLEFKI",
+                "CRAWDAUNT",
+                "MELTAN"
+            ]
+        },
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "SIRFETCHD",
+                "LILLIGANT",
+                "FLYGON",
+                "KLEFKI",
+                "KINGLER",
+                "MELTAN"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "FEEBAS",
+                "REMORAID"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORSOLA_G",
+                "MANTYKE_S"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "BASCULIN_RED",
+                "GOLISOPOD",
+                "ARAQUANID"
+            ]
+        }
+    },
+    "MtEmberExterior": {
+        "name": "Mt Ember Exterior",
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DODUO_S",
+                "COALOSSAL",
+                "DARMANITAN",
+                "HOUNDOOM",
+                "DODRIO_S",
+                "ARCANINE_H",
+                "VOLCARONA"
+            ]
+        },
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DODUO_S",
+                "COALOSSAL",
+                "DARMANITAN",
+                "PYROAR",
+                "DODRIO_S",
+                "ARCANINE",
+                "VOLCARONA"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "HEATRAN"
+            ]
+        }
+    },
+    "MtEmber1F": {
+        "name": "Mt Ember 1F",
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "TORKOAL",
+                "MAGCARGO",
+                "NINETALES",
+                "PYROAR",
+                "DARMANITAN",
+                "ARCANINE_H"
+            ]
+        }
+    },
+    "RockTunnel": {
+        "name": "Rock Tunnel",
+        "PostGameNight": {
+            "name": "Post Game Night",
+            "encounters": [
+                "URSALUNA",
+                "NOIBAT_S",
+                "AGGRON",
+                "STUNFISK",
+                "ARCANINE_H",
+                "IRONTREADS",
+                "MELTAN"
+            ]
+        },
+        "SmashDay": {
+            "name": "Smash Day",
+            "encounters": [
+                "GOLEM",
+                "GOLEM_A",
+                "PROBOPASS",
+                "CARBINK"
+            ]
+        },
+        "PostGameDay": {
+            "name": "Post Game Day",
+            "encounters": [
+                "URSALUNA",
+                "NOIBAT_S",
+                "COPPERAJAH",
+                "STUNFISK_G",
+                "ARCANINE_H",
+                "GREATTUSK",
+                "MELTAN"
+            ]
+        },
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "DELIBIRD",
+                "TINKATUFF",
+                "FERROSEED",
+                "SANDSHREW_A",
+                "ORTHWORM"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "TERRAKION"
+            ]
+        },
+        "Secret": {
+            "name": "Secret",
+            "encounters": [
+                "MAGEARNA"
+            ]
+        }
+    },
+    "CapeBrink": {
+        "name": "Cape Brink",
+        "Night": {
+            "name": "Night",
+            "encounters": [
+                "ELECTRODE_H",
+                "BLITZLE_S",
+                "SHIFTRY",
+                "SLOWBRO",
+                "GOLISOPOD",
+                "GRAPPLOCT",
+                "SCYTHER"
+            ]
+        },
+        "Day": {
+            "name": "Day",
+            "encounters": [
+                "ELECTRODE_H",
+                "BLITZLE_S",
+                "LILLIGANT_H",
+                "SLOWBRO_G",
+                "ARAQUANID",
+                "GRAPPLOCT",
+                "SCYTHER"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "ARAQUANID",
+                "SLOWBRO",
+                "CRAMORANT",
+                "BARBARACLE"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "FEEBAS",
+                "REMORAID"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORSOLA_G",
+                "BARRASKEWDA"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "LUVDISC",
+                "WISHIWASHI",
+                "KINGLER"
+            ]
+        }
+    },
+    "BondBridge": {
+        "name": "Bond Bridge",
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "DECIDUEYE_H",
+                "SNEASEL_H",
+                "HATTERENE",
+                "CRUSTLE",
+                "BRAVIARY_H",
+                "GLISCOR",
+                "HAWLUCHA"
+            ]
+        },
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "DECIDUEYE_H",
+                "SNEASEL_H",
+                "HATTERENE",
+                "CRUSTLE",
+                "BRAVIARY_H",
+                "GLISCOR",
+                "HAWLUCHA"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "PELIPPER",
+                "SLOWKING",
+                "MANTINE_S",
+                "MILOTIC_S"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "FEEBAS",
+                "REMORAID"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CLAWITZER",
+                "SHARPEDO"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "ALOMOMOLA",
+                "DHELMISE_S"
+            ]
+        }
+    },
+    "BerryForest": {
+        "name": "Berry Forest",
+        "LandMonsDay": {
+            "name": "Land Mons Day",
+            "encounters": [
+                "CARNIVINE_S",
+                "NYMBLE_S",
+                "DECIDUEYE_H",
+                "PINSIR",
+                "INDEEDEE",
+                "ROSERADE",
+                "DURANT"
+            ]
+        },
+        "LandMonsNight": {
+            "name": "Land Mons Night",
+            "encounters": [
+                "CARNIVINE_S",
+                "NYMBLE_S",
+                "DECIDUEYE_H",
+                "PINSIR",
+                "INDEEDEE_FEMALE",
+                "TSAREENA",
+                "DURANT"
+            ]
+        },
+        "SurfMons": {
+            "name": "Surf Mons",
+            "encounters": [
+                "ARAQUANID",
+                "GOLISOPOD",
+                "MASQUERAIN",
+                "TENTACRUEL"
+            ]
+        },
+        "OldRod": {
+            "name": "Old Rod",
+            "encounters": [
+                "STARYU",
+                "CLAUNCHER_S"
+            ]
+        },
+        "GoodRod": {
+            "name": "Good Rod",
+            "encounters": [
+                "CORSOLA_G",
+                "FEEBAS_S"
+            ]
+        },
+        "SuperRod": {
+            "name": "Super Rod",
+            "encounters": [
+                "SHARPEDO",
+                "LUVDISC",
+                "CRAWDAUNT"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "MEW"
+            ]
+        }
+    },
+    "PkmnTower": {
+        "name": "Pkmn Tower",
+        "PostGameLandMons": {
+            "name": "Post Game Land Mons",
+            "encounters": [
+                "TEDDIURSA_S",
+                "ZOROARK_H",
+                "GENGAR",
+                "MIMIKYU",
+                "FLUTTERMANE",
+                "POLTEAGEIST"
+            ]
+        },
+        "PostGameLandMons2": {
+            "name": "Post Game Land Mons2",
+            "encounters": [
+                "WISHIWASHI_SEVI",
+                "TYPHLOSION_H",
+                "FLUTTERMANE",
+                "SPIRITOMB",
+                "DRAGAPULT",
+                "CURSOLA"
+            ]
+        },
+        "Secret": {
+            "name": "Secret",
+            "encounters": [
+                "MARSHADOW"
+            ]
+        }
+    },
+    "ThreeIslandPort": {
+        "name": "Three Island Port",
+        "Day": {
+            "name": "Day",
+            "encounters": [
+                "DUNSPARCE",
+                "CLAUNCHER_S",
+                "GOODRA_H",
+                "SAMUROTT_H",
+                "SANDACONDA",
+                "SMEARGLE",
+                "CORVIKNIGHT"
+            ]
+        }
+    },
+    "MtMoon": {
+        "name": "Mt Moon",
+        "1Star": {
+            "name": "1Star",
+            "encounters": [
+                "CETODDLE",
+                "CUFANT",
+                "LUNATONE",
+                "MAGNEMITE",
+                "VAROOM"
+            ]
+        },
+        "3Star": {
+            "name": "3Star",
+            "encounters": [
+                "REGIROCK",
+                "REGISTEEL",
+                "REGICE"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "COBALION"
+            ]
+        }
+    },
+    "DiglettsCave": {
+        "name": "Digletts Cave",
+        "2Star": {
+            "name": "2Star",
+            "encounters": [
+                "GLIGAR",
+                "SANDILE",
+                "STONJOURNER",
+                "MISDREAVUS",
+                "KLINK"
+            ]
+        }
+    },
+    "PokemonMansion": {
+        "name": "Pokemon Mansion",
+        "3Star": {
+            "name": "3Star",
+            "encounters": [
+                "FLOATZEL",
+                "MAGCARGO",
+                "NOCTOWL"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "SPECTRIER",
+                "HOOPA",
+                "REGIDRAGO"
+            ]
+        },
+        "6Star": {
+            "name": "6Star",
+            "encounters": [
+                "TAPU_LELE"
+            ]
+        }
+    },
+    "Seafoam": {
+        "name": "Seafoam",
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "DRACOVISH",
+                "ARCTOVISH",
+                "BASCULEGION"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "DRACOVISH",
+                "ARCTOVISH",
+                "GLASTRIER"
+            ]
+        },
+        "6Star": {
+            "name": "6Star",
+            "encounters": [
+                "KYUREM",
+                "TAPU_FINI",
+                "MANAPHY"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "KELDEO",
+                "ARTICUNO",
+                "ARTICUNO_G"
+            ]
+        },
+        "Secret": {
+            "name": "Secret",
+            "encounters": [
+                "KYOGRE"
+            ]
+        }
+    },
+    "CeruleanCave": {
+        "name": "Cerulean Cave",
+        "4Star": {
+            "name": "4Star",
+            "encounters": [
+                "XURKITREE",
+                "STAKATAKA",
+                "GUZZLORD"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "BUZZWOLE",
+                "XURKITREE",
+                "STAKATAKA",
+                "GUZZLORD",
+                "NIHILEGO"
+            ]
+        },
+        "6Star": {
+            "name": "6Star",
+            "encounters": [
+                "BLACEPHALON",
+                "KARTANA",
+                "POIPOLE",
+                "PHEROMOSA",
+                "CELESTEELA"
+            ]
+        },
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "KUBFU"
+            ]
+        },
+        "Secret": {
+            "name": "Secret",
+            "encounters": [
+                "MEWTWO"
+            ]
+        }
+    },
+    "VictoryRoad": {
+        "name": "Victory Road",
+        "6Star": {
+            "name": "6Star",
+            "encounters": [
+                "ZYGARDE"
+            ]
+        },
+        "5Star": {
+            "name": "5Star",
+            "encounters": [
+                "MELOETTA",
+                "GENESECT",
+                "JIRACHI"
+            ]
+        },
+        "Static": {
+            "name": "Static",
+            "encounters": [
+                "MOLTRES",
+                "MOLTRES_G"
+            ]
+        }
+    },
+    "SaffronCity": {
+        "name": "Saffron City",
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "TAUROS_P_FIRE",
+                "TAUROS_P_WATER"
+            ]
+        }
+    },
+    "SilphCo": {
+        "name": "Silph Co",
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "LAPRAS"
+            ]
+        }
+    },
+    "OneIsland": {
+        "name": "One Island",
+        "Gift": {
+            "name": "Gift",
+            "encounters": [
+                "COSMOG"
+            ]
+        },
+        "Roaming": {
+            "name": "Roaming",
+            "encounters": [
+                "ENAMORUS"
+            ]
+        }
+    }
+}

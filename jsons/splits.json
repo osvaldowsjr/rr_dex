@@ -1,0 +1,20 @@
+{
+    "SPECIAL": {
+        "ID": 1,
+        "key": "SPECIAL",
+        "name": "Special",
+        "color": "#5273AD"
+    },
+    "PHYSICAL": {
+        "ID": 0,
+        "key": "PHYSICAL",
+        "name": "Physical",
+        "color": "#F75231"
+    },
+    "STATUS": {
+        "ID": 2,
+        "key": "STATUS",
+        "name": "Status",
+        "color": "#ADA594"
+    }
+}

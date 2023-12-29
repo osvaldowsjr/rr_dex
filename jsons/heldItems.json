@@ -1,0 +1,522 @@
+{
+    "DAMP_ROCK": {
+        "ID": 693,
+        "key": "DAMP_ROCK",
+        "name": "Damp Rock"
+    },
+    "HARD_STONE": {
+        "ID": 204,
+        "key": "HARD_STONE",
+        "name": "Hard Stone"
+    },
+    "HEAT_ROCK": {
+        "ID": 692,
+        "key": "HEAT_ROCK",
+        "name": "Heat Rock"
+    },
+    "ASPEAR_BERRY": {
+        "ID": 137,
+        "key": "ASPEAR_BERRY",
+        "name": "Aspear Berry"
+    },
+    "MIRACLE_SEED": {
+        "ID": 205,
+        "key": "MIRACLE_SEED",
+        "name": "Miracle Seed"
+    },
+    "DRAGON_SCALE": {
+        "ID": 201,
+        "key": "DRAGON_SCALE",
+        "name": "Dragon Scale"
+    },
+    "BIG_MUSHROOM": {
+        "ID": 104,
+        "key": "BIG_MUSHROOM",
+        "name": "Big Mushroom"
+    },
+    "SMOOTH_ROCK": {
+        "ID": 691,
+        "key": "SMOOTH_ROCK",
+        "name": "Smooth Rock"
+    },
+    "ABSORB_BULB": {
+        "ID": 707,
+        "key": "ABSORB_BULB",
+        "name": "Absorb Bulb"
+    },
+    "LEEK": {
+        "ID": 225,
+        "key": "LEEK",
+        "name": "Leek"
+    },
+    "SHED_SHELL": {
+        "ID": 698,
+        "key": "SHED_SHELL",
+        "name": "Shed Shell"
+    },
+    "DRAGON_FANG": {
+        "ID": 216,
+        "key": "DRAGON_FANG",
+        "name": "Dragon Fang"
+    },
+    "LUCKY_PUNCH": {
+        "ID": 222,
+        "key": "LUCKY_PUNCH",
+        "name": "Lucky Punch"
+    },
+    "RED_NECTAR": {
+        "ID": 528,
+        "key": "RED_NECTAR",
+        "name": "Red Nectar"
+    },
+    "CHESTO_BERRY": {
+        "ID": 134,
+        "key": "CHESTO_BERRY",
+        "name": "Chesto Berry"
+    },
+    "RINDO_BERRY": {
+        "ID": 449,
+        "key": "RINDO_BERRY",
+        "name": "Rindo Berry"
+    },
+    "PECHA_BERRY": {
+        "ID": 135,
+        "key": "PECHA_BERRY",
+        "name": "Pecha Berry"
+    },
+    "CHERI_BERRY": {
+        "ID": 133,
+        "key": "CHERI_BERRY",
+        "name": "Cheri Berry"
+    },
+    "METAL_COAT": {
+        "ID": 199,
+        "key": "METAL_COAT",
+        "name": "Metal Coat"
+    },
+    "TERRAIN_EXTENDER": {
+        "ID": 716,
+        "key": "TERRAIN_EXTENDER",
+        "name": "Terrain Extender"
+    },
+    "YELLOW_NECTAR": {
+        "ID": 529,
+        "key": "YELLOW_NECTAR",
+        "name": "Yellow Nectar"
+    },
+    "NEVER_MELT_ICE": {
+        "ID": 212,
+        "key": "NEVER_MELT_ICE",
+        "name": "Never Melt Ice"
+    },
+    "COBA_BERRY": {
+        "ID": 454,
+        "key": "COBA_BERRY",
+        "name": "Coba Berry"
+    },
+    "PEARL": {
+        "ID": 106,
+        "key": "PEARL",
+        "name": "Pearl"
+    },
+    "MOON_STONE": {
+        "ID": 94,
+        "key": "MOON_STONE",
+        "name": "Moon Stone"
+    },
+    "WEAKNESS_POLICY": {
+        "ID": 710,
+        "key": "WEAKNESS_POLICY",
+        "name": "Weakness Policy"
+    },
+    "KEBIA_BERRY": {
+        "ID": 452,
+        "key": "KEBIA_BERRY",
+        "name": "Kebia Berry"
+    },
+    "POTION": {
+        "ID": 13,
+        "key": "POTION",
+        "name": "Potion"
+    },
+    "SACRED_ASH": {
+        "ID": 45,
+        "key": "SACRED_ASH",
+        "name": "Sacred Ash"
+    },
+    "ELECTRIC_SEED": {
+        "ID": 718,
+        "key": "ELECTRIC_SEED",
+        "name": "Electric Seed"
+    },
+    "BIG_NUGGET": {
+        "ID": 115,
+        "key": "BIG_NUGGET",
+        "name": "Big Nugget"
+    },
+    "SPELL_TAG": {
+        "ID": 213,
+        "key": "SPELL_TAG",
+        "name": "Spell Tag"
+    },
+    "LUCKY_EGG": {
+        "ID": 197,
+        "key": "LUCKY_EGG",
+        "name": "Lucky Egg"
+    },
+    "RED_SHARD": {
+        "ID": 48,
+        "key": "RED_SHARD",
+        "name": "Red Shard"
+    },
+    "PRISM_SCALE": {
+        "ID": 176,
+        "key": "PRISM_SCALE",
+        "name": "Prism Scale"
+    },
+    "FLAME_ORB": {
+        "ID": 681,
+        "key": "FLAME_ORB",
+        "name": "Flame Orb"
+    },
+    "LEPPA_BERRY": {
+        "ID": 138,
+        "key": "LEPPA_BERRY",
+        "name": "Leppa Berry"
+    },
+    "THROAT_SPRAY": {
+        "ID": 727,
+        "key": "THROAT_SPRAY",
+        "name": "Throat Spray"
+    },
+    "RAWST_BERRY": {
+        "ID": 136,
+        "key": "RAWST_BERRY",
+        "name": "Rawst Berry"
+    },
+    "SOFT_SAND": {
+        "ID": 203,
+        "key": "SOFT_SAND",
+        "name": "Soft Sand"
+    },
+    "PAYAPA_BERRY": {
+        "ID": 455,
+        "key": "PAYAPA_BERRY",
+        "name": "Payapa Berry"
+    },
+    "MISTY_SEED": {
+        "ID": 720,
+        "key": "MISTY_SEED",
+        "name": "Misty Seed"
+    },
+    "OCCA_BERRY": {
+        "ID": 446,
+        "key": "OCCA_BERRY",
+        "name": "Occa Berry"
+    },
+    "SHELL_BELL": {
+        "ID": 219,
+        "key": "SHELL_BELL",
+        "name": "Shell Bell"
+    },
+    "IRON_BALL": {
+        "ID": 686,
+        "key": "IRON_BALL",
+        "name": "Iron Ball"
+    },
+    "MENTAL_HERB": {
+        "ID": 185,
+        "key": "MENTAL_HERB",
+        "name": "Mental Herb"
+    },
+    "REVIVE": {
+        "ID": 24,
+        "key": "REVIVE",
+        "name": "Revive"
+    },
+    "PIXIE_PLATE": {
+        "ID": 506,
+        "key": "PIXIE_PLATE",
+        "name": "Pixie Plate"
+    },
+    "LUM_BERRY": {
+        "ID": 141,
+        "key": "LUM_BERRY",
+        "name": "Lum Berry"
+    },
+    "HEART_SCALE": {
+        "ID": 111,
+        "key": "HEART_SCALE",
+        "name": "Heart Scale"
+    },
+    "BIG_ROOT": {
+        "ID": 699,
+        "key": "BIG_ROOT",
+        "name": "Big Root"
+    },
+    "MYSTIC_WATER": {
+        "ID": 209,
+        "key": "MYSTIC_WATER",
+        "name": "Mystic Water"
+    },
+    "MOOMOO_MILK": {
+        "ID": 29,
+        "key": "MOOMOO_MILK",
+        "name": "Moomoo Milk"
+    },
+    "STARDUST": {
+        "ID": 108,
+        "key": "STARDUST",
+        "name": "Stardust"
+    },
+    "CHARTI_BERRY": {
+        "ID": 457,
+        "key": "CHARTI_BERRY",
+        "name": "Charti Berry"
+    },
+    "TINY_MUSHROOM": {
+        "ID": 103,
+        "key": "TINY_MUSHROOM",
+        "name": "Tiny Mushroom"
+    },
+    "CLEANSE_TAG": {
+        "ID": 190,
+        "key": "CLEANSE_TAG",
+        "name": "Cleanse Tag"
+    },
+    "SILVER_POWDER": {
+        "ID": 188,
+        "key": "SILVER_POWDER",
+        "name": "Silver Powder"
+    },
+    "DEEP_SEA_TOOTH": {
+        "ID": 192,
+        "key": "DEEP_SEA_TOOTH",
+        "name": "Deep Sea Tooth"
+    },
+    "WACAN_BERRY": {
+        "ID": 448,
+        "key": "WACAN_BERRY",
+        "name": "Wacan Berry"
+    },
+    "DEEP_SEA_SCALE": {
+        "ID": 193,
+        "key": "DEEP_SEA_SCALE",
+        "name": "Deep Sea Scale"
+    },
+    "CHARCOAL": {
+        "ID": 215,
+        "key": "CHARCOAL",
+        "name": "Charcoal"
+    },
+    "BLACK_SLUDGE": {
+        "ID": 689,
+        "key": "BLACK_SLUDGE",
+        "name": "Black Sludge"
+    },
+    "NUGGET": {
+        "ID": 110,
+        "key": "NUGGET",
+        "name": "Nugget"
+    },
+    "ICY_ROCK": {
+        "ID": 690,
+        "key": "ICY_ROCK",
+        "name": "Icy Rock"
+    },
+    "STAR_PIECE": {
+        "ID": 109,
+        "key": "STAR_PIECE",
+        "name": "Star Piece"
+    },
+    "BLACK_GLASSES": {
+        "ID": 206,
+        "key": "BLACK_GLASSES",
+        "name": "Black Glasses"
+    },
+    "WIDE_LENS": {
+        "ID": 673,
+        "key": "WIDE_LENS",
+        "name": "Wide Lens"
+    },
+    "PASSHO_BERRY": {
+        "ID": 447,
+        "key": "PASSHO_BERRY",
+        "name": "Passho Berry"
+    },
+    "TWISTED_SPOON": {
+        "ID": 214,
+        "key": "TWISTED_SPOON",
+        "name": "Twisted Spoon"
+    },
+    "MAX_REVIVE": {
+        "ID": 25,
+        "key": "MAX_REVIVE",
+        "name": "Max Revive"
+    },
+    "PSYCHIC_SEED": {
+        "ID": 721,
+        "key": "PSYCHIC_SEED",
+        "name": "Psychic Seed"
+    },
+    "THICK_CLUB": {
+        "ID": 224,
+        "key": "THICK_CLUB",
+        "name": "Thick Club"
+    },
+    "BERRY_JUICE": {
+        "ID": 44,
+        "key": "BERRY_JUICE",
+        "name": "Berry Juice"
+    },
+    "SHARP_BEAK": {
+        "ID": 210,
+        "key": "SHARP_BEAK",
+        "name": "Sharp Beak"
+    },
+    "BLUE_SHARD": {
+        "ID": 49,
+        "key": "BLUE_SHARD",
+        "name": "Blue Shard"
+    },
+    "SITRUS_BERRY": {
+        "ID": 142,
+        "key": "SITRUS_BERRY",
+        "name": "Sitrus Berry"
+    },
+    "METAL_POWDER": {
+        "ID": 223,
+        "key": "METAL_POWDER",
+        "name": "Metal Powder"
+    },
+    "YELLOW_SHARD": {
+        "ID": 50,
+        "key": "YELLOW_SHARD",
+        "name": "Yellow Shard"
+    },
+    "MAGNET": {
+        "ID": 208,
+        "key": "MAGNET",
+        "name": "Magnet"
+    },
+    "PINK_NECTAR": {
+        "ID": 530,
+        "key": "PINK_NECTAR",
+        "name": "Pink Nectar"
+    },
+    "HABAN_BERRY": {
+        "ID": 459,
+        "key": "HABAN_BERRY",
+        "name": "Haban Berry"
+    },
+    "BLACK_BELT": {
+        "ID": 207,
+        "key": "BLACK_BELT",
+        "name": "Black Belt"
+    },
+    "LAGGING_TAIL": {
+        "ID": 687,
+        "key": "LAGGING_TAIL",
+        "name": "Lagging Tail"
+    },
+    "GREEN_SHARD": {
+        "ID": 51,
+        "key": "GREEN_SHARD",
+        "name": "Green Shard"
+    },
+    "LIGHT_BALL": {
+        "ID": 202,
+        "key": "LIGHT_BALL",
+        "name": "Light Ball"
+    },
+    "BIG_PEARL": {
+        "ID": 107,
+        "key": "BIG_PEARL",
+        "name": "Big Pearl"
+    },
+    "LEFTOVERS": {
+        "ID": 200,
+        "key": "LEFTOVERS",
+        "name": "Leftovers"
+    },
+    "POISON_BARB": {
+        "ID": 211,
+        "key": "POISON_BARB",
+        "name": "Poison Barb"
+    },
+    "YACHE_BERRY": {
+        "ID": 450,
+        "key": "YACHE_BERRY",
+        "name": "Yache Berry"
+    },
+    "EVERSTONE": {
+        "ID": 195,
+        "key": "EVERSTONE",
+        "name": "Everstone"
+    },
+    "TANGA_BERRY": {
+        "ID": 456,
+        "key": "TANGA_BERRY",
+        "name": "Tanga Berry"
+    },
+    "ORAN_BERRY": {
+        "ID": 139,
+        "key": "ORAN_BERRY",
+        "name": "Oran Berry"
+    },
+    "BOTTLE_CAP": {
+        "ID": 639,
+        "key": "BOTTLE_CAP",
+        "name": "Bottle Cap"
+    },
+    "SILK_SCARF": {
+        "ID": 217,
+        "key": "SILK_SCARF",
+        "name": "Silk Scarf"
+    },
+    "CHOPLE_BERRY": {
+        "ID": 451,
+        "key": "CHOPLE_BERRY",
+        "name": "Chople Berry"
+    },
+    "KINGS_ROCK": {
+        "ID": 187,
+        "key": "KINGS_ROCK",
+        "name": "Kings Rock"
+    },
+    "AIR_BALLOON": {
+        "ID": 703,
+        "key": "AIR_BALLOON",
+        "name": "Air Balloon"
+    },
+    "UP_GRADE": {
+        "ID": 218,
+        "key": "UP_GRADE",
+        "name": "Up Grade"
+    },
+    "CHILAN_BERRY": {
+        "ID": 462,
+        "key": "CHILAN_BERRY",
+        "name": "Chilan Berry"
+    },
+    "PURPLE_NECTAR": {
+        "ID": 531,
+        "key": "PURPLE_NECTAR",
+        "name": "Purple Nectar"
+    },
+    "PERSIM_BERRY": {
+        "ID": 140,
+        "key": "PERSIM_BERRY",
+        "name": "Persim Berry"
+    },
+    "SMOKE_BALL": {
+        "ID": 194,
+        "key": "SMOKE_BALL",
+        "name": "Smoke Ball"
+    },
+    "GRASSY_SEED": {
+        "ID": 719,
+        "key": "GRASSY_SEED",
+        "name": "Grassy Seed"
+    }
+}

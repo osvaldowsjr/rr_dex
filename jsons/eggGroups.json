@@ -1,0 +1,77 @@
+{
+    "DRAGON": {
+        "ID": 14,
+        "key": "DRAGON",
+        "name": "Dragon"
+    },
+    "WATER_1": {
+        "ID": 2,
+        "key": "WATER_1",
+        "name": "Water 1"
+    },
+    "WATER_3": {
+        "ID": 9,
+        "key": "WATER_3",
+        "name": "Water 3"
+    },
+    "WATER_2": {
+        "ID": 12,
+        "key": "WATER_2",
+        "name": "Water 2"
+    },
+    "FAIRY": {
+        "ID": 6,
+        "key": "FAIRY",
+        "name": "Fairy"
+    },
+    "MINERAL": {
+        "ID": 10,
+        "key": "MINERAL",
+        "name": "Mineral"
+    },
+    "FLYING": {
+        "ID": 4,
+        "key": "FLYING",
+        "name": "Flying"
+    },
+    "HUMAN_LIKE": {
+        "ID": 8,
+        "key": "HUMAN_LIKE",
+        "name": "Human Like"
+    },
+    "AMORPHOUS": {
+        "ID": 11,
+        "key": "AMORPHOUS",
+        "name": "Amorphous"
+    },
+    "GRASS": {
+        "ID": 7,
+        "key": "GRASS",
+        "name": "Grass"
+    },
+    "UNDISCOVERED": {
+        "ID": 15,
+        "key": "UNDISCOVERED",
+        "name": "Undiscovered"
+    },
+    "BUG": {
+        "ID": 3,
+        "key": "BUG",
+        "name": "Bug"
+    },
+    "FIELD": {
+        "ID": 5,
+        "key": "FIELD",
+        "name": "Field"
+    },
+    "DITTO": {
+        "ID": 13,
+        "key": "DITTO",
+        "name": "Ditto"
+    },
+    "MONSTER": {
+        "ID": 1,
+        "key": "MONSTER",
+        "name": "Monster"
+    }
+}
