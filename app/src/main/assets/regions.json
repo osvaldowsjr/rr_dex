@@ -1,0 +1,68 @@
+{
+    "KANTO": {
+        "key": "KANTO",
+        "name": "Kanto",
+        "variant": "Kantonian",
+        "bound": 151
+    },
+    "JOHTO": {
+        "key": "JOHTO",
+        "name": "Johto",
+        "variant": "Johtonian",
+        "bound": 251
+    },
+    "HOENN": {
+        "key": "HOENN",
+        "name": "Hoenn",
+        "variant": "Hoennian",
+        "bound": 386
+    },
+    "SINNOH": {
+        "key": "SINNOH",
+        "name": "Sinnoh",
+        "variant": "Sinnohan",
+        "bound": 493
+    },
+    "UNOVA": {
+        "key": "UNOVA",
+        "name": "Unova",
+        "variant": "Unovan",
+        "bound": 649
+    },
+    "KALOS": {
+        "key": "KALOS",
+        "name": "Kalos",
+        "variant": "Kalosian",
+        "bound": 721
+    },
+    "ALOLA": {
+        "key": "ALOLA",
+        "name": "Alola",
+        "variant": "Alolan",
+        "bound": 809
+    },
+    "GALAR": {
+        "key": "GALAR",
+        "name": "Galar",
+        "variant": "Galarian",
+        "bound": 898
+    },
+    "HISUI": {
+        "key": "HISUI",
+        "name": "Hisui",
+        "variant": "Hisuian",
+        "bound": 905
+    },
+    "PALDEA": {
+        "key": "PALDEA",
+        "name": "Paldea",
+        "variant": "Paldean",
+        "bound": 1010
+    },
+    "SEVII_ISLANDS": {
+        "key": "SEVII_ISLANDS",
+        "name": "Sevii Islands",
+        "variant": "Seviian",
+        "bound": -1
+    }
+}
