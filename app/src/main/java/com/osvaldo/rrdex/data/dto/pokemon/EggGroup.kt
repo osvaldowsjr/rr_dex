@@ -1,4 +1,4 @@
-package com.osvaldo.rrdex.data
+package com.osvaldo.rrdex.data.dto.pokemon
 
 data class EggGroup(
     val primary: String,

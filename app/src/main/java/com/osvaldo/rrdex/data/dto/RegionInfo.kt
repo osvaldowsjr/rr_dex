@@ -1,4 +1,4 @@
-package com.osvaldo.rrdex.data
+package com.osvaldo.rrdex.data.dto
 
 data class RegionInfo(
     val key: String,

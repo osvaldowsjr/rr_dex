@@ -69,4 +69,8 @@ dependencies {
 
     implementation("io.insert-koin:koin-androidx-compose:3.5.3")
     implementation("com.google.code.gson:gson:2.10")
+
+    val nav_version = "2.7.6"
+
+    implementation("androidx.navigation:navigation-compose:$nav_version")
 }

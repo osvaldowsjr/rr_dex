@@ -1,4 +1,4 @@
-package com.osvaldo.rrdex.data
+package com.osvaldo.rrdex.data.dto.pokemon
 
 data class Learnset(
     val levelup: List<List<Any>>,

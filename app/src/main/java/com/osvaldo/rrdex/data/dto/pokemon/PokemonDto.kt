@@ -1,8 +1,8 @@
-package com.osvaldo.rrdex.data
+package com.osvaldo.rrdex.data.dto.pokemon
 
 import android.graphics.Bitmap
 
-data class Pokemon(
+data class PokemonDto(
     val ID: Int,
     val key: String,
     val dexID: Int,
